@@ -1,4 +1,4 @@
-# Greeb-FInder
+# Green-Finder
 Python 과 Tkinter를 이용한 GUI프로그래밍 프로젝트 
 
 - 학교 생명과학I 시간에 진행한 '학교 정원 탐사하기' 후 진행한 활동
